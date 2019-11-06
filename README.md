@@ -1,4 +1,4 @@
-# 这个工程主要是fork的国内的一个大佬[Robot-Will](https://github.com/Robot-Will)给sublime text 3写的一个支持arduino开发的插件，从17年开始就没维护了，但是我用的时候遇到了一个问题[#509](https://github.com/Robot-Will/Stino/issues/509)，自己解决后就放到自己仓库了。
+# 这个工程主要是fork的国内的一个大佬[Robot-Will](https://github.com/Robot-Will)给sublime text 3写的一个支持arduino开发的插件，从17年开始就没维护了，但是我用的时候遇到了一个问题[#509](https://github.com/Robot-Will/Stino/issues/509)，解决后就放到自己仓库了。
 
 # Stino2017
 
